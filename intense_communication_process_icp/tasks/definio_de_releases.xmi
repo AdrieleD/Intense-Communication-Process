@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OiCXf16bSTq5HM0aob_2ng" name=",_OU43EFU-EeeTquE3nPuwyg" guid="-OiCXf16bSTq5HM0aob_2ng" changeDate="2017-06-19T19:27:13.648-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nesta atividade o Gerente de Projeto deverá realizar o particionamento do sistema em pequenas releases a serem&#xD;
+    implementadas. É importante ressaltar que tais releases devem ser definidas de forma a serem viáveis de implementação&#xD;
+    em uma semana, uma vez que este é tempo sugerido para cada &quot;fase&quot; do jogo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Um aspecto importante é a definição de prioridade entre as tarefas a serem desenvolvidas, uma vez que as&#xD;
+    funcionalidades mais importantes devem ser desenvolvidas primeiramente.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Fragmentar as tarefas a serem implementadas para o sistema de forma satisfatória.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

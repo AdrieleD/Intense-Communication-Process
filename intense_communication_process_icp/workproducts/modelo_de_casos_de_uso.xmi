@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WO_yfhowaMqq1VpAj3keXw" name="new_artifact,_9RsXgFRbEeej_OK0LuwLsA" guid="-WO_yfhowaMqq1VpAj3keXw" changeDate="2017-06-18T16:40:20.053-0300">
+  <mainDescription>O Modelo de Casos de Uso é composto pelo Diagrama de Casos de Uso e uma documentação que deve ser desenvolvida para cada um&#xD;
+dos principais casos de uso. Esta documentação deve ser completa e bem definida, uma vez que será de suma importância para&#xD;
+o entendimento.</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Promover um maior entendimento do sistema a ser projetado.&#xD;
+&lt;/p></purpose>
+  <impactOfNotHaving>O sistema pode não ser bem entendido, o que pode causar erros de interpretação que impactarão diretamente na qualidade e&#xD;
+custo do sistema. Além disso, pode ser necessário muitas releases de correção de erros.</impactOfNotHaving>
+  <notation>&lt;p>&#xD;
+    Sugere-se a notação especificada na UML.&#xD;
+&lt;/p></notation>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-48n8YAJrFdQpH-GUPbezvg" name="programador_senior,_vFSX0FSKEeefFPcpbZtvyg" guid="-48n8YAJrFdQpH-GUPbezvg" changeDate="2017-06-19T10:38:54.272-0300">
+  <mainDescription>&lt;p>&#xD;
+    Cabe ao Programador Senior realizar a integração entre os produtos de trabalho desenvolvidas a cada ciclo pelos&#xD;
+    Programadores Junior e pelo Analista de Banco de Dados. Esta integração deve ser realizada de forma que a nova parte&#xD;
+    disponível seja íntegra e completa para futura integração com as demais partes.&#xD;
+&lt;/p></mainDescription>
+  <skills>O Programador Senior deve ser uma pessoa que já é bem familiarizada com a linguagem de programação escolhida e com o tipo&#xD;
+de banco de dados desenvolvido.</skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    Este papel pode ser realizado um time de programadores, mas é importante que todos sigam um padrão ao fazer a junção&#xD;
+    das partes para que o sistema não fique com uma aparência desconecta.&#xD;
+&lt;/p></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

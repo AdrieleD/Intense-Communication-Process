@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i8vpfVQTVE7BzXPXemSntA" name="projeto,_YNn5AFSJEeefFPcpbZtvyg" guid="-i8vpfVQTVE7BzXPXemSntA" changeDate="2017-06-19T19:04:44.094-0300">
+  <mainDescription>&lt;p>&#xD;
+    Toda a definição técnica como linguagens e tecnologias que serão utilizadas no sistema devem ser especificados nesta&#xD;
+    disciplina.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma vez que tais aspectos tenham sido bem definidos, é feito o refinamento de todos os produtos de trabalho gerados na&#xD;
+    disciplina anterior.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    É também nesta disciplina que o Gerente de Projeto particionará o sistema em pequenas releases a serem implementadas na&#xD;
+    disciplina de Implementação.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

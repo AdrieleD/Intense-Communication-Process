@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-H9w53OgQY9u63q_oOp_G7Q" name="ICP,_g99JMVRoEeej_OK0LuwLsA" guid="-H9w53OgQY9u63q_oOp_G7Q"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jy5PRrni7AqH_IfJ_D8nMw" name="requisitos,_7r2vMFRoEeej_OK0LuwLsA" guid="-jy5PRrni7AqH_IfJ_D8nMw">
+    <refinedDescription>&lt;p>&#xD;
+    Durante a Atividade de Requisitos o Analista de Sistemas deve coletar os requisitos junto ao cliente e realizar toda a&#xD;
+    análise necessária bem como construir os produtos de trabalho esperados.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Paralelamente, o Coletor de Dados já deve começar o trabalho na Wiki, para que já sejam inseridos a especificação geral&#xD;
+    do sistema e os primeiros diagramas logo que estes estejam disponíveis.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Gerenciador de Projetos deve estar atento aos prazos durante toda esta atividade para que nada ultrapasse o tempo&#xD;
+    disponível, atrasando as demais atividades que deverão ser realizadas.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WhCNkB6pDfygm7aVco4G4A" name="analista_de_sistemas,_7sFYsFRoEeej_OK0LuwLsA" guid="-WhCNkB6pDfygm7aVco4G4A">
+    <refinedDescription>&lt;p>&#xD;
+    O Analista de Sistemas é responsável principalmente pelas seguintes tarefas:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Coletar, identificar e analisar os requisitos junto ao cliente.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Produzir diagramas e refiná-los posteriormente. Para a produção de tais diagramas, sugere-se o Modelo de Casos de&#xD;
+        Uso e o Diagrama de Classes.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    É importante lembrar que o Modelo de Casos de Uso deve ser refinado a partir do Diagrama de Classes. Por sua vez, deve&#xD;
+    ser produzido ainda na Atividade de Requisitos, um Diagrama de Classes de Domínio, que deverá ser refinado&#xD;
+    posteriormente.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-O_GzAYMBkSO0GGf0wArqbg" name="diagrama_de_classes,_7sKRMFRoEeej_OK0LuwLsA" guid="-O_GzAYMBkSO0GGf0wArqbg">
+    <refinedDescription>&lt;p>&#xD;
+    O Diagrama de Classes é composto de duas fases, a primeira delas devendo ser realizada logo na Atividade de Requisitos.&#xD;
+    Esta primeira fase é conhecida como Diagrama de Classes de Domínio, uma vez que somente as classes, seus&#xD;
+    relacionamentos e relativas multiplicidades são analisadas. O Diagrama de Classes de Domínio leva em consideração&#xD;
+    Regras de Negócio e não deve possuir nenhuma característica relativa à implementação, um,a vez que esta ainda será&#xD;
+    propriamente analisada na Atividade de Projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma vez que as características técnicas de desenvolvimento tenham sido bem analisadas na Atividade de Projeto, deve-se&#xD;
+    realizar um refinamento do Diagrama de Classes de Domínio, incluindo todos os tipos e características próprias da&#xD;
+    linguagem de programação, por exemplo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7ysJVZh3GjiRGB0GyTF46Q" name="modelo_de_casos_de_uso,_7sKRMlRoEeej_OK0LuwLsA" guid="-7ysJVZh3GjiRGB0GyTF46Q">
+    <refinedDescription>O Modelo de Casos de Uso é composto pelo Diagrama de Casos de Uso e uma documentação que deve ser desenvolvida para cada um&#xD;
+dos principais casos de uso. Esta documentação deve ser completa e bem definida, uma vez que será de suma importância para&#xD;
+o entendimento.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

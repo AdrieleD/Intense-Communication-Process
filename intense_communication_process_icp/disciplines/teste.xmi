@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B_s9Uad2NMTjQkIEmWUP4Q" name="new_discipline,_bXLq8FSJEeefFPcpbZtvyg" guid="-B_s9Uad2NMTjQkIEmWUP4Q" changeDate="2017-06-18T21:51:53.505-0300">
+  <mainDescription>&lt;p>&#xD;
+    O propósito desta disciplina é:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Assegurar que a funcionalidade determinada para aquele ciclo é satisfatória para o sistema como um todo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identificar os problemas e possíveis&amp;nbsp;soluções&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Fornecer &lt;em>feedback&lt;/em> para a equipe.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

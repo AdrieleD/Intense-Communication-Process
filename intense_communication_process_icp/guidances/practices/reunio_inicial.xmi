@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jwc5P8CGYgTHSa1g9t5DZw" name="new_practice,_Ly5voFSHEeefFPcpbZtvyg" guid="-jwc5P8CGYgTHSa1g9t5DZw" changeDate="2017-06-18T21:35:53.232-0300">
+  <mainDescription>Esta reunião deve ser realizada com todos os membros ativos do projeto, de forma que todos sejam esclarecidos e definidos&#xD;
+todos os detalhes e metas do projeto.</mainDescription>
+  <problem>Promover um maior entendimento do projeto com base em especificações e objetivos do projeto.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

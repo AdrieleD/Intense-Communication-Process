@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FBg4L_JNC4n0IqooJ-jkCg" name="new_toolmentor,_8XeFwFRtEeej_OK0LuwLsA" guid="-FBg4L_JNC4n0IqooJ-jkCg" changeDate="2017-06-18T18:38:21.747-0300">
+  <mainDescription>Através do GitHub podem ser disponibilizados os projetos para compartilhamento entre os membros das equipes, além de ser um&#xD;
+repositório livre confiável e fazer o versionamento das releases e/ou do projeto.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

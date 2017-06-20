@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-RO8LhTzubardFwHIVQHoog" name=",_imXE0FVBEeeTquE3nPuwyg" guid="-RO8LhTzubardFwHIVQHoog" changeDate="2017-06-19T19:50:26.760-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nesta atividade, o Testador deverá realizar e documentar todos os testes esperados em relação ao módulo desenvolvido&#xD;
+    naquele ciclo. Uma vez que o teste tenha resultado positivo, o Testador também deverá enviar o referido módulo aos&#xD;
+    Programadores Senior para que estes realizem a integração do módulo com o restante do sistema já desenvolvido.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma vez feita esta integração, o Testador deverá realizar novos testes com todo o sistema desenvolvido até então, de&#xD;
+    forma a garantir sua funcionalidade.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Testar os módulos desenvolvidos.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

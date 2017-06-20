@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I2Ouf0dKGpKSnuK2JjMs0Q" name="new_discipline,_PrgG8FSJEeefFPcpbZtvyg" guid="-I2Ouf0dKGpKSnuK2JjMs0Q" changeDate="2017-06-19T19:34:32.721-0300">
+  <mainDescription>&lt;p>&#xD;
+    Os desenvolvedores constroem o projeto de forma incremental. Cada atividade pode ser desenvolvida em grupos ou em&#xD;
+    pares, isso de acordo com cada atividade delegada.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O propósito desta disciplina é implementar as tarefas de acordo com a demanda. Tal implementação abrange tanto a&#xD;
+    implementação do sistema em si como a análise e desenvolvimento do Banco de Dados.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

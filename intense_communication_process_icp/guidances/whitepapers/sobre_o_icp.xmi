@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oCvHQud3DnpoN54fYi09xw" name="new_whitepaper,_L-Io0FVDEeeTquE3nPuwyg" guid="-oCvHQud3DnpoN54fYi09xw" changeDate="2017-06-19T20:01:59.398-0300">
+  <mainDescription>&lt;h3>&#xD;
+    O que é o ICP?&#xD;
+&lt;/h3>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.7999&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    O Intense Communication Process (ICP)&amp;nbsp;seguir tem por objetivo ser aplicada num escopo acadêmico de um projeto&#xD;
+    interdisciplinar que engloba as seguintes disciplinas: Arquitetura de Software, Engenharia de Software II, Banco de&#xD;
+    Dados e Programação Orientada à Objetos. Tendo em vista este escopo, algumas limitações devem ser levadas em conta no&#xD;
+    desenvolvimento da metodologia, tais limitações referem-se principalmente ao tempo de desenvolvimento do sistema e ao&#xD;
+    volume de artefatos produzidos.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.7999&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Baseados em experiências de edições anteriores do projeto verificou-se que um ponto importante no processo não recebia&#xD;
+    a devida atenção, a comunicação. Dessa forma procurou-se criar itens na metodologia desenvolvida que estimulam a&#xD;
+    comunicação de todos os envolvidos no projeto.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.7999&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Devido às limitações de tempo o modelo de ciclo de vida iterativo e incremental foi adotado junto com uma adaptação do&#xD;
+    framework Scrum. As adaptações do framework e do modelo de ciclo de vida reforçam a todo momento interações entre&#xD;
+    membros do projeto que em teoria pertencem à diferentes disciplinas, há também a proposta de um jogo para que o&#xD;
+    componente competitividade esteja presente e estimule a melhoria da qualidade do software assim como agilidade no&#xD;
+    desenvolvimento.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

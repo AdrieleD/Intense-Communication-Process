@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ev6GuWwIzs4v--ec2o2HQg" name=",_4SFm4FVAEeeTquE3nPuwyg" guid="-Ev6GuWwIzs4v--ec2o2HQg" changeDate="2017-06-19T19:46:02.234-0300">
+  <mainDescription>Nesta atividade, o Analista de Banco de Dados analisa os produtos de trabalho gerados na disciplina de Projeto e, a partir&#xD;
+da tecnologia de Banco de Dados especificada, cria um Banco que seja satisfatório ao atender as necessidades do sistema e&#xD;
+usuários.</mainDescription>
+  <purpose>Criar e desenvolver um Banco de Dados satisfatório ao sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

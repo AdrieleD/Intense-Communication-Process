@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QxJ6cil1OArxnJ6nkJ_kqA" name="new_role,_qVQXUFSKEeefFPcpbZtvyg" guid="-QxJ6cil1OArxnJ6nkJ_kqA" changeDate="2017-06-19T10:44:03.399-0300">
+  <mainDescription>&lt;p>&#xD;
+    Este papel é responsável principalmente pelas seguintes tarefas:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Verificar quais&amp;nbsp;testes necessitam ser executados&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Implementar testes individuais&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Preparar, executar e registrar&amp;nbsp;os testes&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Analisar&amp;nbsp;os erros encontrados&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Comunicar os resultados obtidos com a equipe&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    Os testes devem ser realizados não só no produto final, mas também a cada nova iteração, quando uma nova funcionalidade&#xD;
+    é liberada.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

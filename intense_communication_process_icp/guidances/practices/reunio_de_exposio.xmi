@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NWvnLHSWG1siLQaEip6abw" name="new_practice,_EnBXwFSHEeefFPcpbZtvyg" guid="-NWvnLHSWG1siLQaEip6abw" changeDate="2017-06-18T21:35:06.349-0300">
+  <mainDescription>Todos os participantes devem participar desta reunião inicial, de forma que todas as informações relevantes sejam&#xD;
+discutidas e as dúvidas iniciais esclarecidas.</mainDescription>
+  <problem>Contextualização de todos os participantes a cerca do projeto a ser desenvolvido.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

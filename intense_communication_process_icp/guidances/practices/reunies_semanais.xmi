@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FBRsebifPGuzlkj9BQ60BA" name="new_practice,_4bIpsFSGEeefFPcpbZtvyg" guid="-FBRsebifPGuzlkj9BQ60BA" changeDate="2017-06-18T21:34:13.365-0300">
+  <mainDescription>&lt;p>&#xD;
+    Esta reunião deve ser realizada semanalmente, preferencialmente às sextas, com participação do líder de cada grupo de&#xD;
+    cada disciplina, se esta o tiver, e com o gerenciador de projeto. É nesta reunião que será disponibilizado o conteúdo&#xD;
+    da nova release e serão esclarecidas eventuais dúvidas sobre esta. É também nesta reunião que será divulgado o&#xD;
+    resultado parcial do jogo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Pede-se que um novo líder de grupo seja escolhido semanalmente para que possa haver uma maior divisão de liderança, bem&#xD;
+    como exerça o valor de Compromisso entre os desenvolvedores do projeto.&#xD;
+&lt;/p></mainDescription>
+  <problem>Esta reunião tem como objetivo levantar as dúvidas e dificuldades encontradas durante o desenvolvimento da release.</problem>
+</org.eclipse.epf.uma:PracticeDescription>

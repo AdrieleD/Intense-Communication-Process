@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7_MfRYZzbrx9x9WAizzeCw" name="programador_junior,_zA-KQFSKEeefFPcpbZtvyg" guid="-7_MfRYZzbrx9x9WAizzeCw" changeDate="2017-06-19T10:37:21.301-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Programador Júnior é aquele que irá efetivamente implementar o sistema como um todo. Esta implementação partirá da&#xD;
+    disponibilização das releases pelo Gerente de Projeto e esse deverá executá-la dentro do prazo estipulado e da melhor&#xD;
+    forma possível. Para implementação das devidas releases, este papel poderá utilizar-se dos diagramas disponibilizados&#xD;
+    pelas disciplinas anteriores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cabe ao Programador Júnior a definição das melhores Estruturas de Dados para a release do momento, bem como decisões&#xD;
+    inteligentes de uso da linguagem de programação escolhida.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

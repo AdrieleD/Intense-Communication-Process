@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iEVRTbZSnJ50B8pROXk-wg" name=",_wJPF4FU_EeeTquE3nPuwyg" guid="-iEVRTbZSnJ50B8pROXk-wg" changeDate="2017-06-19T19:37:52.296-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nesta atividade é realizada a implementação dos módulos e funcionalidades do sistema como um todo, de acordo com os&#xD;
+    prazos e qualidades esperadas. Para que isso seja possível, o time de Programadores Júnior deve ser divido em pequenas&#xD;
+    equipes que possuirão um líder. Todas as equipes deverão implementar o mesmo módulo, de forma que em cada release o&#xD;
+    módulo possua diversas possibilidades de implementação. Esta diversidade é esperada como uma forma de promover um&#xD;
+    código otimizado e/ou com idéias superiores aos demais.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Sugere-se que a liderança de cada equipe seja rotativa, de forma a dividir a responsabilidade entre todos os membros&#xD;
+    desta.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Implementação dos módulos do sistema.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wZbKPf93QM2kR69zEO683Q" name="new_whitepaper,_T_5RIFSFEeefFPcpbZtvyg" guid="-wZbKPf93QM2kR69zEO683Q" changeDate="2017-06-18T21:23:22.870-0300">
+  <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-LEFT: 36pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.7999&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Para que um trabalho seja bem feito, é muito importante que haja comunicação entre todos os envolvidos, desde aquele&#xD;
+    que solicita o trabalho, até aquele que o realiza. Pois quanto maior a capacidade de compreensão de um determinado&#xD;
+    problema, melhor serão os resultados obtidos posteriormente.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

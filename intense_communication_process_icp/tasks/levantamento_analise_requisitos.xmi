@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MPJDSWPcDJBu7I7TGhaRdw" name="levantamento_analise_requisitos,_J1tQsFRnEeej_OK0LuwLsA" guid="-MPJDSWPcDJBu7I7TGhaRdw" changeDate="2017-06-19T10:04:54.317-0300">
+  <mainDescription>&lt;p>&#xD;
+    Durante a Atividade de Requisitos o Analista de Sistemas deve coletar os requisitos junto ao cliente e realizar toda a&#xD;
+    análise necessária bem como construir os produtos de trabalho esperados. É importante que este trabalho seja realizado&#xD;
+    de forma mais que satisfatória, uma vez que os resultados de trabalho desta atividade impactarão diretamente no&#xD;
+    restante do projeto, inclusive na definição de prazos.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_59akEFTvEeeEb6kCnE5ToQ" name="Levantamento de Informações e Requisitos" guid="_59akEFTvEeeEb6kCnE5ToQ">
+    <sectionDescription>O Analista deve recolher toda a especificação do projeto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_A3YFgFTwEeeEb6kCnE5ToQ" name="Levantamento de Requisitos" guid="_A3YFgFTwEeeEb6kCnE5ToQ">
+    <sectionDescription>O Analista deve realizar a estruturação dos requisitos do sistema, construindo a SRS da melhor forma possível. Deve-se&#xD;
+também estar atento à indicação de requisitos desnecessários e/ou impossíveis de se realizar de acordo com os parâmetros do&#xD;
+sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="_XDT8MFTwEeeEb6kCnE5ToQ" name="Análise de Requisitos" guid="_XDT8MFTwEeeEb6kCnE5ToQ">
+    <sectionDescription>&lt;p>&#xD;
+    O Analista deve construir os modelos e diagramas esperados de acordo com os requisitos especificados por ele.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>Desenvolver um entendimento geral do sistema e suas aplicações e relacionamentos com os usuários.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

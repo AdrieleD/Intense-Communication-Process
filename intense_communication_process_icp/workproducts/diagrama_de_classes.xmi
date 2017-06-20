@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fa3tCughUYwOeMI-1-a3FA" name="new_artifact,_FCWBoFRiEeej_OK0LuwLsA" guid="-fa3tCughUYwOeMI-1-a3FA" changeDate="2017-06-18T17:22:36.777-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Diagrama de Classes é composto de duas fases, a primeira delas devendo ser realizada logo na Atividade de Requisitos.&#xD;
+    Esta primeira fase é conhecida como Diagrama de Classes de Domínio, uma vez que somente as classes, seus&#xD;
+    relacionamentos e relativas multiplicidades são analisadas. O Diagrama de Classes de Domínio leva em consideração&#xD;
+    Regras de Negócio e não deve possuir nenhuma característica relativa à implementação, um,a vez que esta ainda será&#xD;
+    propriamente analisada na Atividade de Projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Uma vez que as características técnicas de desenvolvimento tenham sido bem analisadas na Atividade de Projeto, deve-se&#xD;
+    realizar um refinamento do Diagrama de Classes de Domínio, incluindo todos os tipos e características próprias da&#xD;
+    linguagem de programação, por exemplo.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Promover um maior entendimento do relacionamento entre as classes do sistema.</purpose>
+  <impactOfNotHaving>Os desenvolvedores podem se confundir com o relacionamento entre as classes, podem julgar outras classes necessárias quando&#xD;
+estas não o são, entre outros problemas de interpretação e design do sistema. Estes problemas podem levar à uma maior&#xD;
+complexidade do sistema como um todo, podendo também aumentar o custo do projeto.</impactOfNotHaving>
+  <notation>&lt;p>&#xD;
+    Sugere-se a notação da UML.&#xD;
+&lt;/p></notation>
+</org.eclipse.epf.uma:ArtifactDescription>

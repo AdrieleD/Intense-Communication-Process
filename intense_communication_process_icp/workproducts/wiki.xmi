@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1rypuVYcID9B-uBIwvLKfw" name="new_artifact,_F3W24FSKEeefFPcpbZtvyg" guid="-1rypuVYcID9B-uBIwvLKfw" changeDate="2017-06-18T21:56:34.260-0300">
+  <mainDescription>&lt;p>&#xD;
+    O wiki ajuda a evitar problemas de comunicação&amp;nbsp;pois fornece&amp;nbsp;um local central&amp;nbsp;onde&amp;nbsp;é possível&#xD;
+    encontrar&amp;nbsp;termos, abreviaturas e tutoriais sobre ferramentas&amp;nbsp;que sejam utilizados pelos membros da equipe.&#xD;
+&lt;/p></mainDescription>
+  <purpose>O objetivo é que o wiki forneça um vocabulário comum acordado por todos os Stakeholders. Pode ajudar pessoas de diferentes&#xD;
+grupos funcionais a alcançar uma compreensão mútua do sistema.</purpose>
+  <impactOfNotHaving>Os enganos sobre o significado de itens de dados e a falta de informações sobre alguma ferramenta contribuem muito para o&#xD;
+atraso de projetos&amp;nbsp;ou até mesmo seu cancelamento.</impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

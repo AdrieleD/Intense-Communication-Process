@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F2e2_M24QFDAU1NyxCZlxw" name=",_L8n0oFU9EeeTquE3nPuwyg" guid="-F2e2_M24QFDAU1NyxCZlxw" changeDate="2017-06-19T19:19:34.567-0300">
+  <mainDescription>&lt;p>&#xD;
+    É nesta atividade que o Analista de Sistemas deverá completar os produtos de trabalho da disciplina de Requisitos com&#xD;
+    base na definição de tecnologias e linguagens especificadas. Este refinamento deve levar em consideração as ferramentas&#xD;
+    disponíveis, possibilidades e impossibilidades levantadas pela linguagem de programação e demais fatores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vale lembrar que os produtos de trabalho desta atividade devem manter o padrão de qualidade alto&amp;nbsp;esperado pois,&#xD;
+    agora mais que nunca, estes resultados serão amplamente utilizados durante o desenvolvimento do sistema.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Incorporar elementos de aspecto técnico aos modelos e diagramas gerados anteriormente.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

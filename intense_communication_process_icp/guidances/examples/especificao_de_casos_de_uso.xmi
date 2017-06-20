@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p4gwITXqB8AO4Z2bPuMTJQ" name="new_example,_gZENEFRgEeej_OK0LuwLsA" guid="-p4gwITXqB8AO4Z2bPuMTJQ" changeDate="2017-06-18T17:06:34.316-0300">
+  <mainDescription>&lt;p>&#xD;
+    Template sugerido por Eduardo Bezerra em 2002. O exemplo mostra uma documentação&amp;nbsp;feita para um caso de uso&#xD;
+    Realizar Inscrição.&#xD;
+&lt;/p></mainDescription>
+  <attachments>resources/DocumentacaCasosdeUso.PNG</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

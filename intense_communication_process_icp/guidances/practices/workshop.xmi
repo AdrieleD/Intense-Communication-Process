@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Tja7oN_vWpRRzNT8S_WSog" name="new_practice,_SfAbQFSHEeefFPcpbZtvyg" guid="-Tja7oN_vWpRRzNT8S_WSog" changeDate="2017-06-18T21:36:28.270-0300">
+  <mainDescription>Este Workshop deverá ser realizado mediante presença de todos os participantes do projeto. Neste workshop deverá ser&#xD;
+mostrado o funcionamento total do projeto desenvolvido, bem como estatísticas técnicas levantadas durante o projeto com&#xD;
+base em dificuldades, quantidade de reuniões, etc., e momentos marcantes registrados durante o projeto.</mainDescription>
+  <problem>&lt;p>&#xD;
+    Promover uma maior integração entre o desenvolvedor e o projeto implemementado, para que ele possa visualizar o projeto&#xD;
+    como um todo.&#xD;
+&lt;/p></problem>
+</org.eclipse.epf.uma:PracticeDescription>

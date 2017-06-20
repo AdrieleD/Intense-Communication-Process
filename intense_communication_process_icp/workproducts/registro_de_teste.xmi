@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q3YKb5TSsZhv9sPo1o9HiQ" name="new_artifact,_zrhYkFSJEeefFPcpbZtvyg" guid="-q3YKb5TSsZhv9sPo1o9HiQ" changeDate="2017-06-18T21:54:36.791-0300">
+  <mainDescription>&lt;p>&#xD;
+    Este artefato fornece um registro detalhado sobre os testes realizados, permitindo uma análise melhor dos resultados.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Analisar os resultados dos testes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Dar &lt;em>feedback&lt;/em> sobre os resultados obtidos.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

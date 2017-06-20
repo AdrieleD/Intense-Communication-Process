@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uZTZSm1tcqYvhL-4fMI_vw" name="new_toolmentor,_UOqH4FRvEeej_OK0LuwLsA" guid="-uZTZSm1tcqYvhL-4fMI_vw" changeDate="2017-06-18T18:46:46.643-0300">
+  <mainDescription>O Trello pode ser utilizado como um meio de se disponibilizar e controlar as atividades a serem exercidas durante as&#xD;
+releases. Além disso, também&amp;nbsp;pode ser feito o acompanhamento do progresso de cada atividade através da criação de&#xD;
+quadros representativos, bem como a autoria de cada release entregue.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IeoRc9uFSmc4oJ7F_Oizfw" name="new_artifact,_8YGuMFSJEeefFPcpbZtvyg" guid="-IeoRc9uFSmc4oJ7F_Oizfw" changeDate="2017-06-18T21:55:57.226-0300">
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; BACKGROUND-COLOR: transparent&quot;>&#xD;
+A SRS consiste em uma lista de requisitos funcionais e não funcionais que descrevem como o sistema deve funcionar baseados&#xD;
+em aspectos técnicos e não técnicos. É válido ressaltar que este artefato pode, e deve, ser refinado, à medida que as&#xD;
+iterações ocorrem.&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

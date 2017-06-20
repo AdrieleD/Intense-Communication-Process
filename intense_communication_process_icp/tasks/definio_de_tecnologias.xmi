@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CaNibv2pkP2NGbVXBNlO4g" name=",_WwvwcFU7EeeTquE3nPuwyg" guid="-CaNibv2pkP2NGbVXBNlO4g" changeDate="2017-06-19T19:06:57.954-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nesta atividade deve-se levar em consideração os propósitos e tarefas esperadas do sistema para que possa ser escolhida&#xD;
+    a melhor tecnologia para implementação do sistema.Esta é uma atividade que envolve todos os papéis do ICP, uma vez que&#xD;
+    as decisões tomadas impactam, diretamente em&amp;nbsp; todas as tarefas que deverão ser&amp;nbsp;realizadas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Vale lembrar que os esforços necessários para adequação do time de desenvolvimento deve&amp;nbsp; também ser levado em&#xD;
+    consideração durante a escolha de tais tecnologias. Vale lembrar também que o Farejador participa ao final desta&#xD;
+    atividade recolhendo as informações geradas.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Escolher as melhores tecnologias e ferramentas que se adaptem ao sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jGqSRbV6RjQOM9QKyYFAJw" name="coletor_de_dados,_DaEfoFSLEeefFPcpbZtvyg" guid="-jGqSRbV6RjQOM9QKyYFAJw" changeDate="2017-06-19T10:27:51.368-0300">
+  <mainDescription>&lt;p>&#xD;
+    Cabe ao&amp;nbsp;Farejador coletar todas as informações relevantes ao desenvolvimento do sistema como um todo. Estas&#xD;
+    informações devem conter a especificação do sistema, requisitos e diagramas levantados, prazos definidos, ferramentas e&#xD;
+    linguagens utilizadas e pontuação do jogo, entre outras informações importantes.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Assim o&amp;nbsp;Farejador participará ativamente de todas as disciplinas do ICP, sendo de vital importância para o&#xD;
+    desenvolvimento do sistema, do ponto de vista de dúvidas e/ou questões que possam ser levantadas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cabe ao&amp;nbsp;Farejador manter a Wiki sempre atualizada, disponiblizando&amp;nbsp;novos conteúdos durante todo o&#xD;
+    desenvolvimento do sistema logo que os produtos de trabalho e decisões importantes tenham sido tomadas.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-C3psMd05ep3aXNk2spugeg" name=",_k8oR4FTvEeeEb6kCnE5ToQ" guid="-C3psMd05ep3aXNk2spugeg" changeDate="2017-06-19T10:02:58.728-0300">
+  <mainDescription>&lt;p>&#xD;
+    Esta atividade deve contemplar os prazos iniciais de todas as disciplinas do ICP, devendo fazer uma análise minuciosa&#xD;
+    da quantidade de tempo disponível e levando em consideração os prazos para estabelecimento e manutenção das ferramentas&#xD;
+    a serem utilizadas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Gerenciador de Projetos deve estar atento aos prazos durante toda esta atividade para que nada ultrapasse o tempo&#xD;
+    disponível, atrasando as demais atividades que deverão ser realizadas.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Garantir que o sistema esteja disponível dentro do prazo máximo estabelecido.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

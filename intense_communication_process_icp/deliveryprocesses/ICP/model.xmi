@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hEyxAFRoEeej_OK0LuwLsA" guid="_hEyxAFRoEeej_OK0LuwLsA">
+    <resourceDescriptors xmi:id="_hEyxAVRoEeej_OK0LuwLsA" id="-H9w53OgQY9u63q_oOp_G7Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_XLNAQFRpEeej_OK0LuwLsA" id="-jy5PRrni7AqH_IfJ_D8nMw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_XLQqoFRpEeej_OK0LuwLsA" id="-WhCNkB6pDfygm7aVco4G4A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_XLTG4FRpEeej_OK0LuwLsA" id="-O_GzAYMBkSO0GGf0wArqbg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_XLetEFRpEeej_OK0LuwLsA" id="-7ysJVZh3GjiRGB0GyTF46Q" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_g99JMFRoEeej_OK0LuwLsA" name="ICP" guid="_g99JMFRoEeej_OK0LuwLsA">
+    <methodElementProperty xmi:id="_g-CBsFRoEeej_OK0LuwLsA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_4wWAUFRoEeej_OK0LuwLsA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_y42BcFRoEeej_OK0LuwLsA" name="Iniciação" guid="_y42BcFRoEeej_OK0LuwLsA">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_y42ogFRoEeej_OK0LuwLsA" name="Iniciação" guid="_y42ogFRoEeej_OK0LuwLsA" presentationName="Iniciação" superActivities="_g99JMVRoEeej_OK0LuwLsA" breakdownElements="_7r2vMFRoEeej_OK0LuwLsA _7sFYsFRoEeej_OK0LuwLsA _7sKRMFRoEeej_OK0LuwLsA _7sKRMlRoEeej_OK0LuwLsA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7r2vMFRoEeej_OK0LuwLsA" name="requisitos" guid="_7r2vMFRoEeej_OK0LuwLsA" presentationName="Requisitos" briefDescription="É na Atividade de Requisitos que são levantados e analisados todos os requisitos e especificações do sistema." superActivities="_y42ogFRoEeej_OK0LuwLsA" output="_7sKRMFRoEeej_OK0LuwLsA _7sKRMlRoEeej_OK0LuwLsA" performedPrimarilyBy="_7sFYsFRoEeej_OK0LuwLsA">
+        <methodElementProperty xmi:id="_7stDwFRoEeej_OK0LuwLsA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-jy5PRrni7AqH_IfJ_D8nMw" href="uma://-H9w53OgQY9u63q_oOp_G7Q#-jy5PRrni7AqH_IfJ_D8nMw"/>
+        <Task href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_J1tQsFRnEeej_OK0LuwLsA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7sFYsFRoEeej_OK0LuwLsA" name="analista_de_sistemas" guid="_7sFYsFRoEeej_OK0LuwLsA" presentationName="Analista de Sistemas" briefDescription="O Analista de sistema é o responsável por coletar os requisitos do sistema e, a partir destes, entender o projeto como um todo da melhor maneira possível." isPlanned="false" superActivities="_y42ogFRoEeej_OK0LuwLsA" modifies="_7sKRMFRoEeej_OK0LuwLsA _7sKRMlRoEeej_OK0LuwLsA" responsibleFor="_7sKRMlRoEeej_OK0LuwLsA _7sKRMFRoEeej_OK0LuwLsA">
+        <methodElementProperty xmi:id="_7sF_wFRoEeej_OK0LuwLsA" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_7s9icFRoEeej_OK0LuwLsA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-WhCNkB6pDfygm7aVco4G4A" href="uma://-H9w53OgQY9u63q_oOp_G7Q#-WhCNkB6pDfygm7aVco4G4A"/>
+        <Role href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_7jYfwFRUEeeCdtW1a0mCjQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7sKRMFRoEeej_OK0LuwLsA" name="diagrama_de_classes" guid="_7sKRMFRoEeej_OK0LuwLsA" presentationName="Diagrama de Classes" briefDescription="Um Diagrama de Classes deve retratar a organização de classes esperadas no projeto de sistema, bem como os relacionamentos entre elas." isPlanned="false" superActivities="_y42ogFRoEeej_OK0LuwLsA">
+        <methodElementProperty xmi:id="_7sKRMVRoEeej_OK0LuwLsA" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_7s1moFRoEeej_OK0LuwLsA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-O_GzAYMBkSO0GGf0wArqbg" href="uma://-H9w53OgQY9u63q_oOp_G7Q#-O_GzAYMBkSO0GGf0wArqbg"/>
+        <examples href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_SSFSAFRlEeej_OK0LuwLsA"/>
+        <WorkProduct href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_FCWBoFRiEeej_OK0LuwLsA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7sKRMlRoEeej_OK0LuwLsA" name="modelo_de_casos_de_uso" guid="_7sKRMlRoEeej_OK0LuwLsA" presentationName="Modelo de Casos de Uso" briefDescription="Um Modelo de Casos de Uso deve retratar os requisitos funcionais do sistema, bem como seu relacionamento com os usuários externos do sistema e outros casos de uso. " isPlanned="false" superActivities="_y42ogFRoEeej_OK0LuwLsA">
+        <methodElementProperty xmi:id="_7sKRM1RoEeej_OK0LuwLsA" name="descriptor_createdByReference" value="true"/>
+        <methodElementProperty xmi:id="_7tCa8FRoEeej_OK0LuwLsA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+        <presentation xmi:id="-7ysJVZh3GjiRGB0GyTF46Q" href="uma://-H9w53OgQY9u63q_oOp_G7Q#-7ysJVZh3GjiRGB0GyTF46Q"/>
+        <examples href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_y_N6wFReEeej_OK0LuwLsA"/>
+        <examples href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_gZENEFRgEeej_OK0LuwLsA"/>
+        <WorkProduct href="uma://_Do2AcFRUEeeCdtW1a0mCjQ#_9RsXgFRbEeej_OK0LuwLsA"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_g99JMVRoEeej_OK0LuwLsA" name="ICP" guid="_g99JMVRoEeej_OK0LuwLsA" presentationName="ICP" breakdownElements="_y42ogFRoEeej_OK0LuwLsA">
+      <presentation xmi:id="-H9w53OgQY9u63q_oOp_G7Q" href="uma://-H9w53OgQY9u63q_oOp_G7Q#-H9w53OgQY9u63q_oOp_G7Q"/>
+      <defaultContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_d_GLYFRoEeej_OK0LuwLsA"/>
+      <validContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_d_GLYFRoEeej_OK0LuwLsA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

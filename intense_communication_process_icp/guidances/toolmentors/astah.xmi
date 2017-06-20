@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Wo8SSieoIZrLokdEclGXxQ" name="new_toolmentor,_VPasMFRtEeej_OK0LuwLsA" guid="-Wo8SSieoIZrLokdEclGXxQ" changeDate="2017-06-18T18:33:38.215-0300">
+  <mainDescription>O Astah pode ser utilizado para construção, importação e exportação de Diagramas de Casos de Uso e Diagramas de Classes.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

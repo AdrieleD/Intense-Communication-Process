@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oAL_EnW0lcE0m4Idqp010A" name="new_role,_7jYfwFRUEeeCdtW1a0mCjQ" guid="-oAL_EnW0lcE0m4Idqp010A" changeDate="2017-06-18T15:37:54.291-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Analista de Sistemas é responsável principalmente pelas seguintes tarefas:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Coletar, identificar e analisar os requisitos junto ao cliente.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Produzir diagramas e refiná-los posteriormente. Para a produção de tais diagramas, sugere-se o Modelo de Casos de&#xD;
+        Uso e o Diagrama de Classes.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    É importante lembrar que o Modelo de Casos de Uso deve ser refinado a partir do Diagrama de Classes. Por sua vez, deve&#xD;
+    ser produzido ainda na Atividade de Requisitos, um Diagrama de Classes de Domínio, que deverá ser refinado&#xD;
+    posteriormente.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>&#xD;
+    Um&amp;nbsp;Analista de Sistemas deve preferencialmente possuir as seguintes habilidades:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Rápido entendimento de um sistema a partir de requisitos, muitas vezes confusos e incompletos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilidade em abstrair informações importantes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ser uma pessoa comunicativa.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

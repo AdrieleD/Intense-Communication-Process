@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i2gUVGmbHVk4gkpqaWW9Pg" name=",_fNBDsFTvEeeEb6kCnE5ToQ" guid="-i2gUVGmbHVk4gkpqaWW9Pg" changeDate="2017-06-19T10:02:33.525-0300">
+  <mainDescription>&lt;p>&#xD;
+    Nesta atividade, o&amp;nbsp;Farejador já deve começar o trabalho na Wiki, para que já sejam inseridos a especificação geral&#xD;
+    do sistema e os primeiros diagramas logo que estes estejam disponíveis.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A Wiki também deve possuir uma aba responsável por informar os prazos para cada tarefa, uma vez que estes tenham sido&#xD;
+    decididos.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Centralizar todas as informações inmportantes acerca do desenvolvimento do projeto, de forma que haja uma fonte única e&#xD;
+confiável de informação à todos os membros do time.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
